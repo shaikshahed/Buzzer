@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "647061192002",
+    "project_id": "engro-buzz",
+    "storage_bucket": "engro-buzz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647061192002:android:697910b4663cec96d5dcdb",
+        "android_client_info": {
+          "package_name": "com.engro.buzz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647061192002-7j672anfujjnfu5dpjqq70bol3gtleri.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.engro.buzz",
+            "certificate_hash": "64ea7ddb54a4fd114662a181969d804fc11c755f"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1Gz8zjKRK12kEKOyX_vr_312OhzyWCww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
